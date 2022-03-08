@@ -2,7 +2,7 @@
     <template
         id="assets_backend_team"
         name="fsm_team_assets"
-        inherit_id="web.assets_backend"
+        inherit_id="web.assets_backend_legacy_lazy"
     >
         <xpath expr="." position="inside">
             <link
